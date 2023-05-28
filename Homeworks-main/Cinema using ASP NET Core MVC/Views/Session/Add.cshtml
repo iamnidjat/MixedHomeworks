@@ -1,0 +1,32 @@
+﻿@model SessionItem
+
+
+<h1>Create</h1>
+
+@using(@Html.BeginForm())
+{
+    @Html.DropDownListFor(model => model.CinemaItemId, ViewBag.Cinemas as SelectList, "Select film...", new {@class = "CinemaTitle"} );
+   // <select class="CinemaTitle" id="CinemaId" name="CinemaTitle" asp-for="CinemaItemId" asp-items="ViewBag.Cinemas"></select>
+        @*<option>Select a film...</option>
+        @foreach(var cinemas in ViewBag.Cinemas as SelectList)
+        {
+            <option value="@cinemas.Value">@cinemas.Text</option>
+        }*@
+    <br/>
+    @Html.TextBoxFor(t => t.Title, new{
+        placeholder = "Input session's title", @class = "SessionTitle" 
+    });
+    <br />
+    @Html.TextBoxFor(t => t.ShowDate, new { @type="datetime-local", @Value = @DateTime.Now.ToLongDateString()  } )
+    <br/>
+    <input type="submit" id="createButton" name="createButton" value="Create" />
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Styles
+{
+    <link href="~/css/AddSession.css" type="text/css" rel="stylesheet" />
+}

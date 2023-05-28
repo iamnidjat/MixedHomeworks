@@ -1,0 +1,31 @@
+﻿@model CinemaItem
+
+
+<h1>Create</h1>
+
+@using(@Html.BeginForm())
+{
+    @Html.TextBoxFor(t => t.CinemaTitle, new{
+        placeholder = "Input film's title"
+    });
+    <br />
+    @Html.TextAreaFor(t => t.Description, new{
+        placeholder = "Input film's description"
+    });
+    <br />
+    <input type="submit" id="createButton" name="createButton" value="Create" />
+}
+
+<div>    
+    @Html.ActionLink("Back to List", "Index")    
+</div>    
+
+@section Styles
+    {
+    <link href="~/css/AddCinema.css" type="text/css" rel="stylesheet" />
+}
+
+@section Scripts
+{
+    <script src="~/js/AddCinema.js"></script>
+}

@@ -1,0 +1,46 @@
+Для того чтобы вернуть все таски после https://cosmosdbcrudopers.azurewebsites.net вводите 
+/api/v1/getall (пример: https://cosmosdbcrudopers.azurewebsites.net/api/v1/getall)
+
+Для того чтобы вернуть таск по id после https://cosmosdbcrudopers.azurewebsites.net вводите /api/v1/get/{id:string} (пример: https://cosmosdbcrudopers.azurewebsites.net/api/v1/get/c3f8076f-a7bf-4ef6-bd53-ee9a3ce9eed9)
+id таска можно получить по https://cosmosdbcrudopers.azurewebsites.net/api/v1/getall
+
+
+
+Для того чтобы удалить таск после https://cosmosdbcrudopers.azurewebsites.net вводите 
+/api/v1/remove (пример: https://cosmosdbcrudopers.azurewebsites.net/api/v1/remove)
+
+fetch("https://cosmosdbcrudopers.azurewebsites.net" + "/api/v1/remove/id", {
+      method: "DELETE"
+    })
+
+А потом возвращаетесь на https://cosmosdbcrudopers.azurewebsites.net/api/v1/getall чтобы увидеть изменения
+
+
+Для того чтобы создать таск открываем консоль и пишем как пример: 
+fetch("https://cosmosdbcrudopers.azurewebsites.net" + "/api/v1/create", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({title: "a", description: "aa", deadline: "2023-05-12"})
+    })
+.then(res => res.json())
+.then(console.log)
+
+
+
+Для того чтобы апдейтнуть таск после https://cosmosdbcrudopers.azurewebsites.net вводите 
+/api/v1/update (пример: https://cosmosdbcrudopers.azurewebsites.net/api/v1/update)
+
+fetch("https://cosmosdbcrudopers.azurewebsites.net" + "/api/v1/update", {
+      method: "PATCH",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({id:"id таска", title: "a", description: "aa", deadline: "2023-05-12"})
+    })
+
+А потом возвращаетесь на https://cosmosdbcrudopers.azurewebsites.net/api/v1/getall чтобы увидеть изменения
+
+
+

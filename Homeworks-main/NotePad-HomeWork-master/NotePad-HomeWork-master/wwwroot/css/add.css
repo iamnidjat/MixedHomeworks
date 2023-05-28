@@ -1,0 +1,17 @@
+﻿body {
+    
+}
+
+#title, #description, #date, #tag
+{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+#add-todo-item
+{
+    width: 100px;
+    height: 30px;
+    margin-left: 200px;
+}

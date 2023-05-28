@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CinemaItem>?
+
+
+@if (Model == null)
+{
+    <div>Incorrect data!</div>
+}
+
+<h1>Films</h1>
+
+<p class="text-right">    
+    @Html.ActionLink("Create New", "Add")
+</p>    
+    
+
+<table class="table">    
+    <tr>  
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>    
+            @Html.DisplayNameFor(model => model.CinemaTitle)    
+        </th>    
+        <th>    
+            @Html.DisplayNameFor(model => model.Description)    
+        </th>    
+    </tr>    
+    
+    
+    @if (Model != null && Model.Count() > 0)    
+    {    
+        foreach (var item in Model)    
+        {    
+            <tr>    
+                <td>    
+                    @Html.DisplayFor(modelItem => item.Id)    
+                </td>  
+                <td>    
+                    @Html.DisplayFor(modelItem => item.CinemaTitle)    
+                </td>    
+                <td>    
+                    @Html.DisplayFor(modelItem => item.Description)    
+                </td>    
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id}) |
+                    <input type="button" value="Delete" id="Delete" class="Delete" name="Delete" data-id="@item.Id" />
+                </td>    
+            </tr>    
+        }    
+    }    
+    else    
+    {    
+        <td colspan="4" class="text-center"><b>No Data Available. Please Add Data By CLick On Create Button</b></td>    
+    }    
+</table>  
+
+@section Scripts
+{
+    <script src="~/js/DeleteCinema.js"></script>
+}

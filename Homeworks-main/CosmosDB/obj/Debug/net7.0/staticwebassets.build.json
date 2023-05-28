@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NJP1yVyuXHPtXLfdfrF6KSI+AFsskbaNcWJU5yq2q6k=",
+  "Source": "CosmosDB",
+  "BasePath": "_content/CosmosDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

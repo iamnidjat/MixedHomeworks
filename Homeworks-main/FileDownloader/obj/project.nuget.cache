@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIfoUE+3BBzLPnRpnaOEuYO71BhwTHr9imHigQ2ARD87nsxQnIEkOV6evxt2P9cENKeJjH7Yxgn/pkH/s7hZPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gurba\\source\\repos\\FileDownloader\\FileDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gurba\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\downloader\\3.0.2\\downloader.3.0.2.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\simpleinjector\\5.4.0\\simpleinjector.5.4.0.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\gurba\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

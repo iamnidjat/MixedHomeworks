@@ -1,0 +1,16 @@
+C:\Users\gurba\source\repos\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\gurba\source\repos\Homework2\bin\Debug\Homework2.exe
+C:\Users\gurba\source\repos\Homework2\bin\Debug\Homework2.pdb
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.csproj.AssemblyReference.cache
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurba\source\repos\Homework2\obj\Debug\MainWindow.g.cs
+C:\Users\gurba\source\repos\Homework2\obj\Debug\App.g.cs
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2_MarkupCompile.cache
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2_MarkupCompile.lref
+C:\Users\gurba\source\repos\Homework2\obj\Debug\MainWindow.baml
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.g.resources
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.Properties.Resources.resources
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.csproj.GenerateResource.cache
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.exe
+C:\Users\gurba\source\repos\Homework2\obj\Debug\Homework2.pdb

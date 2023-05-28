@@ -1,0 +1,213 @@
+// out: "../../wwwroot/"
+@LightBlue: lightblue;
+@LightGreen: lightgreen;
+@LightRed: rgb(228, 89, 89);
+
+body{
+    background-color: rgb(251, 242, 233);
+    font: bold 14px Arial, sans-serif;
+}
+
+.flex-function(){
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttonsCust(){
+    position: relative;
+    display: inline-block;
+    width: 90px;
+    height: 70px;
+    border: 1px solid black;
+    font-size: 20px;
+    border-radius: 3px;
+	box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
+}
+
+h1{
+    .flex-function();
+}
+
+#calculator{
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 500px;
+    height: 580px;
+    border: 1px solid black;
+    background: #9dd2ea;
+	background: linear-gradient(#9dd2ea, #8bceec);
+	border-radius: 3px;
+	box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+#screen{
+    margin-left: 50px;
+    width: 385px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+    font-size: 25px;
+    text-align: right;
+}
+
+#mainscreen{
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 385px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+    font-size: 25px;
+    text-align: right;
+}
+
+.clear{
+    .buttonsCust();
+    .flex-function();
+    left: 50px;
+    top: 30px;
+    background-color: @LightRed;
+}
+
+.operatorDivision{
+    .buttonsCust();
+    .flex-function();
+    left: 150px;
+    top: -40px;
+    background-color: @LightGreen;
+}
+
+.operatorMultiply{
+    .buttonsCust();
+    .flex-function();
+    left: 250px;
+    top: -110px;
+    background-color: @LightGreen;
+}
+
+.operatorDelete{
+    .buttonsCust();
+    .flex-function();
+    left: 350px;
+    top: -180px;
+    background-color: @LightGreen;
+}
+
+#button7{
+    .buttonsCust();
+    .flex-function();
+    left: 50px;
+    top: -170px;
+}
+
+#button8{
+    .buttonsCust();
+    .flex-function();
+    left: 150px;
+    top: -240px;
+}
+
+#button9{
+    .buttonsCust();
+    .flex-function();
+    left: 250px;
+    top: -310px;
+}
+
+.operatorSubtract{
+    .buttonsCust();
+    .flex-function();
+    left: 350px;
+    top: -380px;
+    background-color: @LightGreen;
+}
+
+#button4{
+    .buttonsCust();
+    .flex-function();
+    left: 50px;
+    top: -370px;
+}
+
+#button5{
+    .buttonsCust();
+    .flex-function();
+    left: 150px;
+    top: -440px;
+}
+
+#button6{
+    .buttonsCust();
+    .flex-function();
+    left: 250px;
+    top: -510px;
+}
+
+.operatorPlus{
+    .buttonsCust();
+    .flex-function();
+    left: 350px;
+    top: -580px;
+    background-color: @LightGreen;
+}
+
+#button1{
+    .buttonsCust();
+    .flex-function();
+    left: 50px;
+    top: -570px;
+}
+
+#button2{
+    .buttonsCust();
+    .flex-function();
+    left: 150px;
+    top: -640px;
+}
+
+#button3{
+    .buttonsCust();
+    .flex-function();
+    left: 250px;
+    top: -710px;
+}
+
+.eval{
+    .buttonsCust();
+    .flex-function();
+    left: 350px;
+    top: -780px;
+    height: 150px;
+    background-color: @LightBlue;
+}
+
+#buttonRemainder{
+    .buttonsCust();
+    .flex-function();
+    left: 50px;
+    top: -850px;
+}
+
+#button0{
+    .buttonsCust();
+    .flex-function();
+    left: 150px;
+    top: -920px;
+}
+
+#buttonPoint{
+    .buttonsCust();
+    .flex-function();
+    left: 250px;
+    top: -990px;
+}
+
+.keys > button:hover{
+    cursor: pointer;
+}

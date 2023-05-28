@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="GameLibrary.Views.CustView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GameLibrary.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Id of Game: " Margin="5" FontSize="20"></Label>
+        <!--<TextBox x:Name="TitleBox"  Margin="150 8 200 7"  FontSize="20" Foreground="black" Text="{Binding Title, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>-->
+        <TextBox x:Name="IdBox"  Margin="150 8 200 7"  FontSize="20" Foreground="black" Text="{Binding GameId, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Developer: " Grid.Row="1" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="DeveloperBox"  Grid.Row="1" Margin="150 8 200 7"  FontSize="20" Foreground="black" Text="{Binding Developer, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Description: " Grid.Row="2" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="DescriptionyBox" Grid.Row="2" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding Description, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Manufacturer: " Grid.Row="3" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="ManufacturerBox" Grid.Row="3" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding Manufacturer, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Raiting: " Grid.Row="4" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="RaitingBox" Grid.Row="4" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding Raiting, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Publisher: " Grid.Row="5" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="PublisherBox" Grid.Row="5" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding Publisher, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Tags: " Grid.Row="6" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="TagsBox" Grid.Row="6" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding Tags, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Comments: " Grid.Row="7" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="CommentsBox" Grid.Row="7" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding Comments, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Label Content="Issue Date: " Grid.Row="8" Margin="5" FontSize="20"></Label>
+        <TextBox x:Name="DateBox" Grid.Row="8" Margin="150 8 200 7" FontSize="20" Foreground="black" Text="{Binding IssueDate, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Button x:Name="BackButton" Grid.Row="9" Content="Back" FontSize="20" Margin="400 8 210 6" Command="{Binding NavigateHomeCommand}"></Button>
+        <Button x:Name="AddButton" Grid.Row="9" Content="Add" FontSize="20" Margin="600 8 10 6" Command="{Binding AddCommand}"></Button>
+    </Grid>
+</UserControl>

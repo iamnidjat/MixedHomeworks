@@ -1,0 +1,27 @@
+﻿@model CinemaItem
+
+
+<h1>Edit</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(t => t.Id)
+    @Html.TextBoxFor(t => t.CinemaTitle, new{
+        placeholder = "Input film's title"
+    });
+    <br />
+    @Html.TextAreaFor(t => t.Description, new{
+        placeholder = "Input film's description"
+    });
+    <br />
+    <input type="submit" id="updateButton" name="updateButton" value="Edit" />
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>    
+
+@section Styles
+{
+    <link href="~/css/UpdateCinema.css" type="text/css" rel="stylesheet" />
+}

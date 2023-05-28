@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<link href="~/css/edit.css" type="text/css" rel="stylesheet" />
+
+<h1>Edit your task's details</h1>
+
+<form method="post"  asp-action="EditItem" asp-controller="NotePad" id="edit-submit-form">
+    <div><input type="text" id="indexEdit" name="index" placeholder="Number of your task to edit..." /></div>
+    <div><input type="text" id="titleEdit" name="title" placeholder="Title..." /></div>
+    <div><input type="text" id="descriptionEdit" name="description" placeholder="Description..." /></div>
+    <div><input type="date" id="dateEdit" name="date" value="@DateTime.Now.ToString("yyyy-MM-dd")" /></div>
+    <div><input type="text" id="tagEdit" name="tag" placeholder="Example: #mytag" /></div>
+    <div><input type="submit" id="edit-todo-item" value="Edit" /></div>
+</form>
+
+@section Scripts
+{
+    <script src="~/js/editjs.js"></script>
+}

@@ -1,0 +1,230 @@
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\appsettings.json
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Cinema.exe
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Cinema.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Cinema.pdb
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.dll
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.pdb
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gurba\source\repos\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gurba\source\repos\Cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\appsettings.json
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Cinema.exe
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Cinema.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Cinema.pdb
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gurb_oa08\Downloads\cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.dll
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.pdb
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\Users\Gurb_oa08\Downloads\cinema\obj\Debug\net6.0\ref\Cinema.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\appsettings.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Cinema.exe
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Cinema.deps.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Cinema.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Cinema.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.pdb
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\obj\Debug\net6.0\ref\Cinema.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gurba\OneDrive\Рабочий стол\New WinRAR ZIP archive\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
