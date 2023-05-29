@@ -1,0 +1,83 @@
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\gurba\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\gurba\source\repos\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\appsettings.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Gurb_oa08\Downloads\Новая сжатая ZIP-папка\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\appsettings.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\huawei\Downloads\FirstASPHW(Web App)\obj\Debug\net6.0\ref\WebApplication1.dll

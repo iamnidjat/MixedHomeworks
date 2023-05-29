@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@if (ViewData.ContainsKey("DateTimeTotalDays") && ViewData.ContainsKey("ASCIIChar") && ViewData.ContainsKey("Position"))
+{
+    <div>@ViewData["DateTimeTotalDays"] days passed in @DateTime.Now.Year.ToString()</div>
+    <div>ASCII Char on @ViewData["Position"] position: @ViewData["ASCIIChar"]</div>
+}
+
+
+<ol class="roundedList">
+    <li>Store1</li>
+    <li>Store2</li>
+    <li>Store3</li>
+    <li>Store4</li>
+    <li>Store5</li>
+</ol>
